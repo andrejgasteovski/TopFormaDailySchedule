@@ -858,10 +858,27 @@ containing a value of this type.
         public static final int abc_split_action_bar_is_narrow=0x7f060002;
     }
     public static final class color {
-        public static final int abc_search_url_text_holo=0x7f070003;
+        public static final int abc_search_url_text_holo=0x7f070014;
         public static final int abc_search_url_text_normal=0x7f070000;
         public static final int abc_search_url_text_pressed=0x7f070002;
         public static final int abc_search_url_text_selected=0x7f070001;
+        public static final int aqua=0x7f07000c;
+        public static final int black=0x7f070012;
+        public static final int blue=0x7f070010;
+        public static final int fuchsia=0x7f070005;
+        public static final int gray=0x7f070008;
+        public static final int green=0x7f07000f;
+        public static final int light_blue=0x7f070013;
+        public static final int lime=0x7f07000d;
+        public static final int maroon=0x7f07000b;
+        public static final int navy=0x7f070011;
+        public static final int olive=0x7f070009;
+        public static final int purple=0x7f07000a;
+        public static final int red=0x7f070006;
+        public static final int silver=0x7f070007;
+        public static final int teal=0x7f07000e;
+        public static final int white=0x7f070003;
+        public static final int yellow=0x7f070004;
     }
     public static final class dimen {
         /**  Default height of an action bar. 
@@ -1077,7 +1094,11 @@ containing a value of this type.
         public static final int abc_textfield_searchview_holo_light=0x7f020054;
         public static final int abc_textfield_searchview_right_holo_dark=0x7f020055;
         public static final int abc_textfield_searchview_right_holo_light=0x7f020056;
-        public static final int ic_launcher=0x7f020057;
+        public static final int custom_background_line=0x7f020057;
+        public static final int custom_background_time=0x7f020058;
+        public static final int custom_background_training=0x7f020059;
+        public static final int custom_bakcground_day=0x7f02005a;
+        public static final int ic_launcher=0x7f02005b;
     }
     public static final class id {
         public static final int action_bar=0x7f05001c;
@@ -1091,10 +1112,17 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f050016;
         public static final int action_menu_presenter=0x7f050017;
         public static final int action_mode_close_button=0x7f050024;
-        public static final int action_settings=0x7f05003d;
+        public static final int action_settings=0x7f050044;
         public static final int activity_chooser_view_content=0x7f050025;
         public static final int always=0x7f05000b;
         public static final int beginning=0x7f050011;
+        public static final int button1=0x7f05003d;
+        public static final int button2=0x7f05003e;
+        public static final int button3=0x7f050041;
+        public static final int buttonMon1030=0x7f05003f;
+        public static final int buttonMon1800=0x7f050040;
+        public static final int buttonMon1900=0x7f050042;
+        public static final int buttonMon2000=0x7f050043;
         public static final int checkbox=0x7f05002d;
         public static final int collapseActionView=0x7f05000d;
         public static final int container=0x7f05003c;
@@ -1194,7 +1222,7 @@ containing a value of this type.
         public static final int abc_search_view=0x7f030016;
         public static final int abc_simple_decor=0x7f030017;
         public static final int activity_main=0x7f030018;
-        public static final int fragment_main=0x7f030019;
+        public static final int monday=0x7f030019;
         public static final int support_simple_spinner_dropdown_item=0x7f03001a;
     }
     public static final class menu {
@@ -1242,8 +1270,23 @@ containing a value of this type.
          */
         public static final int abc_shareactionprovider_share_with_application=0x7f0a000b;
         public static final int action_settings=0x7f0a000f;
+        public static final int aerobic_body_combat=0x7f0a001b;
+        public static final int aerobic_metabolic=0x7f0a001d;
+        public static final int aerobic_morning_mix=0x7f0a0019;
         public static final int app_name=0x7f0a000d;
+        public static final int ball_pilates=0x7f0a0017;
+        public static final int cetvrtok=0x7f0a0013;
         public static final int hello_world=0x7f0a000e;
+        public static final int kruzen_trening=0x7f0a0018;
+        public static final int mat_pilates=0x7f0a0015;
+        public static final int mat_pilates_yogalates=0x7f0a001e;
+        public static final int nedela=0x7f0a0014;
+        public static final int ponedelnik=0x7f0a0010;
+        public static final int power_pilates=0x7f0a001a;
+        public static final int sreda=0x7f0a0012;
+        public static final int step_aerobic=0x7f0a001c;
+        public static final int vtornik=0x7f0a0011;
+        public static final int zumba=0x7f0a0016;
     }
     public static final class style {
         /** 
